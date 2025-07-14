@@ -1,0 +1,56 @@
+{
+  "originUrl": "https://www.eliquis.ca",
+  "lastCrawled": "https://www.eliquis.ca/",
+  "urls": [
+    {
+      "url": "https://www.eliquis.ca/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "614c95b732fe262a6fe43c7430f40ef24066fc96"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr",
+      "source": "SITEMAPS",
+      "targetPath": "/fr",
+      "id": "4461d0275924bdbf015b6c199f1b4461e4941390"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/predin-home",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/predin-home",
+      "id": "690c2d69ee0e0c4b1321b92bd81e3aff9f4d711c"
+    },
+    {
+      "url": "https://www.eliquis.ca/fr/predin-signedup",
+      "source": "SITEMAPS",
+      "targetPath": "/fr/predin-signedup",
+      "id": "f7ee4d5e950c9ba423995352a0cc8ffdc10e2381"
+    },
+    {
+      "url": "https://www.eliquis.ca/predin-home",
+      "source": "SITEMAPS",
+      "targetPath": "/predin-home",
+      "id": "0f07440494a0410f3c73ec86ea22c9e6d57e3600"
+    },
+    {
+      "url": "https://www.eliquis.ca/predin-signedup",
+      "source": "SITEMAPS",
+      "targetPath": "/predin-signedup",
+      "id": "e5294f78dea62896d295612606b72a5fe93f70d2"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": []
+}
